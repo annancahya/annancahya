@@ -1,6 +1,6 @@
 ### Hi, I'm Annan 👋
 
-* Software Engineer @TikTok based in Seattle, WA.<br>
+* Software Engineer @ based in Seattle, WA.<br>
 * 1 year of experience, currently working on TikTok Shop.
 
 <!--
