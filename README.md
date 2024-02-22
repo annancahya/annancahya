@@ -3,6 +3,7 @@
 * Software Engineer @TikTok based in Seattle, WA.<br>
 * 1 year of experience, currently working on TikTok Shop.
 
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/annan-cahya-a72767253/)
 <!--
 **annancahya/annancahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
