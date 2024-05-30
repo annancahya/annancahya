@@ -2,7 +2,7 @@
 
 ### Hi 👋, I'm Annan 
 
-* Software Engineer @ based in Seattle, WA.<br>
+* Computer Science Student @Primakara University.<br>
 * 1 year of experience, currently working on TikTok Shop.
 
 <!--
