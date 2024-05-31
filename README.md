@@ -2,7 +2,7 @@
 
 ### Hi 👋, I'm Annan 
 
-* Computer Science Student @Primakara<br>
+* Computer Science Student @Primakara University<br>
 * I'm currently studying in Bangkit Academy.
 
 <!--
