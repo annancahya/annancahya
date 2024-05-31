@@ -3,7 +3,7 @@
 ### Hi 👋, I'm Annan 
 
 * Computer Science Student @Primakara University.<br>
-* 1 year of experience, currently studying= in Bangkit Academy.
+* I'm currently studying in Bangkit Academy.
 
 <!--
 **annancahya/annancahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
