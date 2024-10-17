@@ -3,7 +3,7 @@
 ### Hi 👋, I'm Annan 
 
 * Computer Science Student @Primakara University<br>
-* I'm currently studying in Bangkit Academy.
+* I am currently developing a game titled Seed of Destiny
 
 <!--
 **annancahya/annancahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
