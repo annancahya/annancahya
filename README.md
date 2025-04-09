@@ -3,7 +3,7 @@
 ### Hi 👋, I'm Annan 
 
 * Computer Science Student @Primakara University<br>
-* I am currently developing a game titled Seed of Destiny
+* I am currently developing a game Echo of the Forgotten
 
 <!--
 **annancahya/annancahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
