@@ -3,8 +3,7 @@
 ### Hi 👋, I'm Annan 
 
 * Computer Science Student @Primakara University<br>
-* I am currently developing a game Echo of the Forgotten
-
+* I am currently developing a game Waktu yang Hilang
 <!--
 **annancahya/annancahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
