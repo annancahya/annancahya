@@ -1,4 +1,5 @@
 [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@AnnanCahya_)
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/annancahya)
 
 ### Hi 👋, I'm Annan 
 
