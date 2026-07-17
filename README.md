@@ -2,8 +2,8 @@
 
 ### Hi 👋, I'm Annan 
 
-* Computer Science Student @Primakara University<br>
-* I am currently developing a game Waktu yang Hilang
+🎬 Full-time Video Editor @FDYS Media Pty Ltd <br>
+💻 Backend Software Engineer in Progress
 <!--
 **annancahya/annancahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
