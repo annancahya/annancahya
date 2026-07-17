@@ -2,7 +2,7 @@
 
 ### Hi 👋, I'm Annan 
 
-🎬 Full-time Video Editor @ FDYS Media Pty Ltd <br>
+🎬 Video Editor @ FDYS Media Pty Ltd <br>
 💻 Backend Software Engineer in Progress
 <!--
 **annancahya/annancahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
